@@ -1,3 +1,4 @@
-# Avaliação de Temperaturas sobre frio e calor
+# Avaliação de Temperaturas
 
-Verificar se o clima está quente ou não.
+Verificar se o clima está quente ou não, frio ou calor.
+Isso foi feito nas linguagens Python e JavaScript
